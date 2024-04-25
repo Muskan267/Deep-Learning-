@@ -1,0 +1,2 @@
+As we saw , we can classify the data into categories or classes but Perceptron has a drawback and that is it only works on linear or sort of linear data . 
+If we tries to use it on non linear data , it will fail and also have poor accuracy . To overcome this we had another algorithm perceptron trick .
