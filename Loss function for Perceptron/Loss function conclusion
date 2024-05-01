@@ -1,1 +1,5 @@
+Why do we use the loss function?
 
+While using the Perceptron Trick we are not able to quantify which line was the best-fit line because of the random selection of data points and non_transparaency.
+The loss function is a difference between target output and predicted output ,   So the Loss Function will help us in quantifying the best-fit line in the form of error.
+Whichever line will have less error will be the best fit line .
