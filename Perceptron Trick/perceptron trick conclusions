@@ -1,1 +1,4 @@
+We use the perceptron trick to find the values of weights (w1 and w2) and bias/intercept(b).
+It has a disadvantage of accuracy. we can't quantify how much our model is accurate . To overcome this issue we will use Loss Function.
+
 
